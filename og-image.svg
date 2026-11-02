@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-labelledby="title desc">
-  <title id="title">Karnataka Rajyotsava</title>
+  <title id="title">Kannada Rajyotsava</title>
   <desc id="desc">A red and yellow Karnataka flag social sharing image.</desc>
   <defs>
     <linearGradient id="yellow" x1="0" y1="0" x2="1" y2="1">
@@ -19,7 +19,7 @@
   <path d="M0 92 C230 26 375 166 600 92 S971 24 1200 96 V0 H0Z" fill="#fff" opacity=".11"/>
   <path d="M0 528 C228 454 400 594 600 516 S973 446 1200 529 V630 H0Z" fill="#350000" opacity=".12"/>
   <g filter="url(#shadow)" text-anchor="middle">
-    <text x="600" y="251" fill="#4a1e00" font-family="Arial, sans-serif" font-size="55" font-weight="700" letter-spacing="8">KARNATAKA</text>
+    <text x="600" y="251" fill="#4a1e00" font-family="Arial, sans-serif" font-size="55" font-weight="700" letter-spacing="8">KANNADA</text>
     <text x="600" y="407" fill="#fff7cf" font-family="Arial, sans-serif" font-size="82" font-weight="800" letter-spacing="3">RAJYOTSAVA</text>
     <path d="M426 456 H774" stroke="#ffd000" stroke-width="4" opacity=".8"/>
     <text x="600" y="507" fill="#fff7cf" font-family="Arial, sans-serif" font-size="29" font-weight="700" letter-spacing="5">NOVEMBER 1 • KARNATAKA</text>
