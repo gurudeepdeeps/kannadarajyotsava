@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/",
-      "destination": "/karnataka-rajyotsava-3d.html"
+      "destination": "/index.html"
     }
   ]
 }
